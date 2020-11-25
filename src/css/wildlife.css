@@ -1,0 +1,88 @@
+.background-wl{
+    background-image:url('https://i.pinimg.com/originals/1c/51/55/1c5155b5974301277b45f4ddaae722b0.jpg');
+}
+.banner-wl{
+    text-align:left;
+    margin-left:14%;
+    font-family: 'Dancing Script', cursive;
+}
+.body-wl{
+    margin-left:2%;
+}
+.line-wl{
+    text-align:left;
+    margin-left:15%;
+    width:11%;
+    color:#00a2c8;
+    background-color:#00a2c8;
+}
+.box-wl{
+    padding:20px;
+    margin:2%;
+    background:white;
+    border:1px solid #d6d6d6;
+    box-shadow:0 2px 3px 0px rgba(0,0,0,0.25);
+    border-radius:3px;
+    transition:.2s all; 
+}
+.wl6{
+    margin-top: -20%;
+}
+.wl8{
+    margin-top:-10%;
+}
+.wl4{
+    margin-top:-52%;
+}
+.wl5{
+    margin-top:-41%;
+}
+.wl9{
+    margin-top:-60%;
+}
+.wl10{
+    margin-top:-50%;
+}
+
+@media (min-width: 320.90px) and (max-width: 768.98px){
+    .banner-wl{
+        margin-left: 11%;
+        margin-top: 7%;
+    }
+    .line-wl{
+        margin-left:16%;
+        width:31%;
+        color:#00a2c8;
+        background-color:#00a2c8;
+    }
+    .wl6, .wl8, .wl4, .wl5, .wl9{
+        margin-top:0px;
+    }
+    .wl10{
+        margin-top:-5%;
+    }
+    .body-wl{
+        margin-left:0;
+    }
+}
+@media(max-width:320.98px){
+    .banner-wl{
+        margin-left: 11%;
+        margin-top: 7%;
+    }
+    .line-wl{
+        margin-left:17%;
+        width:42%;
+        color:#00a2c8;
+        background-color:#00a2c8;
+    }
+    .wl6, .wl8, .wl4, .wl5, .wl9{
+        margin-top:0px;
+    }
+    .wl10{
+        margin-top:-5%;
+    }
+    .body-wl{
+        margin-left:0;
+    }
+}
