@@ -64,6 +64,9 @@
     .body-wl{
         margin-left:0;
     }
+    .container{
+        padding-left:0;
+    }
 }
 @media(max-width:320.98px){
     .banner-wl{
@@ -84,5 +87,8 @@
     }
     .body-wl{
         margin-left:0;
+    }
+    .container{
+        padding-left:0;
     }
 }
