@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/canonshuttershots-wildlife/static/css/main.a6c182c8.chunk.css",
-    "main.js": "/canonshuttershots-wildlife/static/js/main.065f930d.chunk.js",
-    "main.js.map": "/canonshuttershots-wildlife/static/js/main.065f930d.chunk.js.map",
+    "main.css": "/canonshuttershots-wildlife/static/css/main.cac8d27f.chunk.css",
+    "main.js": "/canonshuttershots-wildlife/static/js/main.c73941ad.chunk.js",
+    "main.js.map": "/canonshuttershots-wildlife/static/js/main.c73941ad.chunk.js.map",
     "runtime-main.js": "/canonshuttershots-wildlife/static/js/runtime-main.951509fb.js",
     "runtime-main.js.map": "/canonshuttershots-wildlife/static/js/runtime-main.951509fb.js.map",
     "static/css/2.ec02d681.chunk.css": "/canonshuttershots-wildlife/static/css/2.ec02d681.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9b63362b.chunk.js.map": "/canonshuttershots-wildlife/static/js/3.9b63362b.chunk.js.map",
     "index.html": "/canonshuttershots-wildlife/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/canonshuttershots-wildlife/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.a6c182c8.chunk.css.map": "/canonshuttershots-wildlife/static/css/main.a6c182c8.chunk.css.map",
+    "static/css/main.cac8d27f.chunk.css.map": "/canonshuttershots-wildlife/static/css/main.cac8d27f.chunk.css.map",
     "static/js/2.9546029d.chunk.js.LICENSE.txt": "/canonshuttershots-wildlife/static/js/2.9546029d.chunk.js.LICENSE.txt",
     "static/media/wildlife.2ab06f7a.jpg": "/canonshuttershots-wildlife/static/media/wildlife.2ab06f7a.jpg",
     "static/media/wl1.8f9cc40c.jpeg": "/canonshuttershots-wildlife/static/media/wl1.8f9cc40c.jpeg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.951509fb.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.9546029d.chunk.js",
-    "static/css/main.a6c182c8.chunk.css",
-    "static/js/main.065f930d.chunk.js"
+    "static/css/main.cac8d27f.chunk.css",
+    "static/js/main.c73941ad.chunk.js"
   ]
 }
