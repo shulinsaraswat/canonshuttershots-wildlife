@@ -41,7 +41,7 @@ export default class NavbarSmall extends Component{
                             <a className="nav-link" href="https://shulinsaraswat.github.io/canonshuttershots-place"><span><i className="material-icons "><PlaceIcon/></i></span><span className="icon-text"> &emsp;Place</span></a><br/>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/canonshuttershots-wildlife"><span><i className="material-icons "><PetsIcon/></i></span><span className="icon-text"> &emsp;Wildlife</span></a><br/>
+                            <a className="nav-link selected-wl" href="/canonshuttershots-wildlife"><span><i className="material-icons "><PetsIcon/></i></span><span className="icon-text"> &emsp;Wildlife</span></a><br/>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="https://shulinsaraswat.github.io/canonshuttershots"><span><i className="material-icons "><HomeIcon/></i></span><span className="icon-text"> &emsp;Home Page</span></a><br/>
